@@ -1,11 +1,1 @@
-1. first Commit
-
-2. Second Commit
-
-3. Third Commit
-
-4. Fourth Commit
-
-5. Fifth Commit
-
-6. Sixth Commit
+1. Line One
